@@ -122,6 +122,143 @@ export const commonExercisePerMuscleGroup: {
 		]
 	},
 	{
+		"muscleGroup": "Triceps",
+		"exercises": [
+			{
+				"name": "Cable triceps pressdown (rope)",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 10,
+				"repRangeEnd": 15,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Great for overall triceps activation. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=60s)"
+			},
+			{
+				"name": "Overhead cable triceps extension",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 12,
+				"repRangeEnd": 20,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Targets the long head of the triceps. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=193s)"
+			},
+			{
+				"name": "Katana cable triceps extension",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 12,
+				"repRangeEnd": 20,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Unique variation for balanced arm development. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=293s)"
+			},
+			{
+				"name": "Dumbbell French press",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 10,
+				"repRangeEnd": 15,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Effective for triceps hypertrophy. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=346s)"
+			},
+			{
+				"name": "One-arm dumbbell triceps extension",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 10,
+				"repRangeEnd": 15,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Allows for better control and reduced strain. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=391s)"
+			},
+			{
+				"name": "Skull crushers",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 8,
+				"repRangeEnd": 12,
+				"changeType": "AbsoluteLoad",
+				"changeAmount": 5,
+				"note": "High tension and effective for triceps overload. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=471s)"
+			},
+			{
+				"name": "JM press",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 8,
+				"repRangeEnd": 12,
+				"changeType": "AbsoluteLoad",
+				"changeAmount": 5,
+				"note": "Hybrid between close grip bench press and skull crusher. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=538s)"
+			},
+			{
+				"name": "Triceps kickbacks (cable)",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 12,
+				"repRangeEnd": 20,
+				"changeType": null,
+				"changeAmount": null,
+				"note": "Maximizes long head contraction. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=592s)"
+			},
+			{
+				"name": "Dips (machine)",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 8,
+				"repRangeEnd": 12,
+				"changeType": "AbsoluteLoad",
+				"changeAmount": 5,
+				"note": "Great for overall triceps development. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=645s)"
+			},
+			{
+				"name": "Close grip bench press",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 6,
+				"repRangeEnd": 12,
+				"changeType": "AbsoluteLoad",
+				"changeAmount": 5,
+				"note": "Progressive overload for medial and lateral heads. [Video](https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=726s)"
+			},
+			{
+				"name": "Lying skull crushers",
+				"targetMuscleGroup": "Triceps",
+				"customMuscleGroup": null,
+				"bodyweightFraction": null,
+				"setType": "Straight",
+				"repRangeStart": 8,
+				"repRangeEnd": 12,
+				"changeType": "AbsoluteLoad",
+				"changeAmount": 5,
+				"note": "Great for isolating the triceps and maximizing tension. [Video](https://www.youtube.com/watch?v=4re6CJ0XNF8)"
+			}
+		]
+	},
+	{
 		"muscleGroup": "Biceps",
 		"exercises": [
 			{
