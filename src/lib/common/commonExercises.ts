@@ -122,11 +122,11 @@ export const commonExercisePerMuscleGroup: {
 		]
 	},
 	{
-    "muscleGroup": "Front Delts",
+    "muscleGroup": "FrontDelts",
     "exercises": [
         {
             "name": "Machine shoulder press",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -138,7 +138,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "EZ-bar front raise",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -146,11 +146,11 @@ export const commonExercisePerMuscleGroup: {
             "repRangeEnd": 15,
             "changeType": null,
             "changeAmount": null,
-            "note": "Targets the front delts with a smooth resistance profile. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+            "note": "Targets the FrontDelts with a smooth resistance profile. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
         },
         {
             "name": "Dumbbell shoulder press",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -162,7 +162,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Seated dumbbell shoulder press",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -174,7 +174,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Dumbbell front raise",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -182,11 +182,11 @@ export const commonExercisePerMuscleGroup: {
             "repRangeEnd": 15,
             "changeType": null,
             "changeAmount": null,
-            "note": "Effective for isolating the front delts. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
+            "note": "Effective for isolating the FrontDelts. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
         },
         {
             "name": "Cable front raise",
-            "targetMuscleGroup": "Front Delts",
+            "targetMuscleGroup": "FrontDelts",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -199,11 +199,11 @@ export const commonExercisePerMuscleGroup: {
     ]
 },
 	{
-		"muscleGroup": "Side Delts",
+		"muscleGroup": "SideDelts",
 		"exercises": [
 			{
 				"name": "Leaning dumbbell lateral raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -215,7 +215,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Behind the back cable lateral raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -227,7 +227,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Super ROM lateral raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -239,7 +239,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Cross-body cable lateral raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -247,11 +247,11 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Great for stretching and engaging the side delts. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Great for stretching and engaging the SideDelts. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
 			},
 			{
 				"name": "Dumbbell lateral raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -263,7 +263,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Cable Y-raises",
-				"targetMuscleGroup": "Side Delts",
+				"targetMuscleGroup": "SideDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -276,11 +276,11 @@ export const commonExercisePerMuscleGroup: {
 		]
 	},
 	{
-		"muscleGroup": "Rear Delts",
+		"muscleGroup": "RearDelts",
 		"exercises": [
 			{
 				"name": "Face pull",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -292,7 +292,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Machine rear delt fly",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -300,11 +300,11 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Provides constant tension for rear delts. [Video](https://www.youtube.com/watch?v=P5CXx_jgTDE)"
+				"note": "Provides constant tension for RearDelts. [Video](https://www.youtube.com/watch?v=P5CXx_jgTDE)"
 			},
 			{
 				"name": "Bent-over reverse dumbbell fly",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -316,7 +316,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Reverse pec deck",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -328,7 +328,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Cable rear delt fly",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
@@ -340,7 +340,7 @@ export const commonExercisePerMuscleGroup: {
 			},
 			{
 				"name": "Single-arm rear delt cable fly",
-				"targetMuscleGroup": "Rear Delts",
+				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
 				"setType": "Straight",
