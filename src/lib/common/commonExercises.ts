@@ -353,11 +353,11 @@ export const commonExercisePerMuscleGroup: {
 		]
 	},
 	{
-    "muscleGroup": "Back",
+    "muscleGroup": "Lats",
     "exercises": [
         {
             "name": "Pull-ups",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": 1,
             "setType": "Straight",
@@ -369,7 +369,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Lat pulldown (wide grip)",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -381,7 +381,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Seated cable row",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -393,7 +393,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Bent-over barbell row",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -405,7 +405,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Dumbbell single-arm row",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -417,7 +417,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Chest-supported machine row",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -429,7 +429,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Deadlifts",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": 1,
             "setType": "Straight",
@@ -441,7 +441,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Reverse grip lat pulldown",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -453,7 +453,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "Cable lat pullover",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
@@ -465,7 +465,7 @@ export const commonExercisePerMuscleGroup: {
         },
         {
             "name": "T-bar row",
-            "targetMuscleGroup": "Back",
+            "targetMuscleGroup": "Lats",
             "customMuscleGroup": null,
             "bodyweightFraction": null,
             "setType": "Straight",
