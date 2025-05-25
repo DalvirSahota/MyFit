@@ -774,183 +774,207 @@ export const commonExercisePerMuscleGroup: {
 		]
 	},
 	{
-		"muscleGroup": "Quads",
-		"exercises": [
-			{
-				"name": "Barbell squats",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": 1,
-				"setType": "Down",
-				"repRangeStart": 5,
-				"repRangeEnd": 10,
-				"changeType": "AbsoluteLoad",
-				"changeAmount": 10,
-				"note": "Feet shoulder-width, squat deep, drive up strong. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
-			},
-			{
-				"name": "Leg press",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 10,
-				"repRangeEnd": 20,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Feet high for quad focus, push up, control return. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
-			},
-			{
-				"name": "Lunges",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": 0.85,
-				"setType": "Straight",
-				"repRangeStart": 10,
-				"repRangeEnd": 15,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Step forward, bend knee, push back explosively. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
-			},
-			{
-				"name": "Leg extensions",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 10,
-				"repRangeEnd": 20,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Lift legs fully, squeeze quads, slow return. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
-			},
-			{
-				"name": "Dumbbell Bulgarian split squats",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 8,
-				"repRangeEnd": 15,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Rear foot elevated, squat deep, drive up strong. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY&t=481s)"
-			},
-			{
-				"name": "Dumbbell goblet squats",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 10,
-				"repRangeEnd": 15,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Hold dumbbell close, squat deep, push up. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY&t=481s)"
-			},
-			{
-				"name": "Dumbbell step-ups",
-				"targetMuscleGroup": "Quads",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 10,
-				"repRangeEnd": 15,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Step onto box, push through quad, control down. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY&t=481s)"
-			}
-		]
-	},
+    "muscleGroup": "Quads",
+    "exercises": [
+        {
+            "name": "Barbell squats",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": 1,
+            "setType": "Down",
+            "repRangeStart": 5,
+            "repRangeEnd": 10,
+            "changeType": "AbsoluteLoad",
+            "changeAmount": 10,
+            "note": "Feet shoulder-width, squat deep, drive up strong. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
+        },
+        {
+            "name": "Leg press",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 20,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Feet high for quad focus, push up, control return. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
+        },
+        {
+            "name": "Lunges",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": 0.85,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Step forward, bend knee, push back explosively. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
+        },
+        {
+            "name": "Leg extensions",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 20,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Lift legs fully, squeeze quads, slow return. [Video](https://www.youtube.com/watch?v=i2ARp-lzies)"
+        },
+        {
+            "name": "Dumbbell Bulgarian split squats (raised)",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 8,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Rear foot elevated higher, squat deep, push through quads. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY)"
+        },
+        {
+            "name": "Heels-Raised Dumbbell Squats (75% depth)",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Elevate heels, squat to 75% depth, push through quads. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY)"
+        },
+        {
+            "name": "Dumbbell goblet squats",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Hold dumbbell close, squat deep, push up. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY&t=481s)"
+        },
+        {
+            "name": "Dumbbell step-ups",
+            "targetMuscleGroup": "Quads",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 10,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Step onto box, push through quad, control down. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY&t=481s)"
+        }
+    ]
+},
 	{
-		"muscleGroup": "Hamstrings",
-		"exercises": [
-			{
-				"name": "Romanian deadlifts",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 8,
-				"repRangeEnd": 12,
-				"changeType": "AbsoluteLoad",
-				"changeAmount": 5,
-				"note": "Hinge at hips, lower bar to mid-shin, keep legs straight. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
-			},
-			{
-				"name": "Seated leg curls",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 12,
-				"repRangeEnd": 20,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Sit upright, curl legs down, squeeze hamstrings, slow return. [Video](https://www.youtube.com/watch?v=Lh3iMIcbkBQ)"
-			},
-			{
-				"name": "Lying leg curls",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 12,
-				"repRangeEnd": 20,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Lie face down, curl legs up, control return. [Video](https://www.youtube.com/watch?v=XFpT41748hM)"
-			},
-			{
-				"name": "Nordic hamstring curls",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": 1,
-				"setType": "Straight",
-				"repRangeStart": 6,
-				"repRangeEnd": 12,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Anchor feet, lower slowly, push up explosively. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
-			},
-			{
-				"name": "Glute-ham raises",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": 1,
-				"setType": "Straight",
-				"repRangeStart": 8,
-				"repRangeEnd": 15,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Bend at knees, lower torso, curl back up. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
-			},
-			{
-				"name": "Cable hamstring curls",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 12,
-				"repRangeEnd": 20,
-				"changeType": null,
-				"changeAmount": null,
-				"note": "Set cable low, curl leg up, slow return. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
-			},
-			{
-				"name": "Dumbbell Romanian deadlifts",
-				"targetMuscleGroup": "Hamstrings",
-				"customMuscleGroup": null,
-				"bodyweightFraction": null,
-				"setType": "Straight",
-				"repRangeStart": 8,
-				"repRangeEnd": 12,
-				"changeType": "AbsoluteLoad",
-				"changeAmount": 5,
-				"note": "Hold dumbbells, hinge at hips, lower to mid-shin, control up. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
-			}
-		]
-	},
+    "muscleGroup": "Hamstrings",
+    "exercises": [
+        {
+            "name": "Romanian deadlifts",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 8,
+            "repRangeEnd": 12,
+            "changeType": "AbsoluteLoad",
+            "changeAmount": 5,
+            "note": "Hinge at hips, lower bar to mid-shin, keep legs straight. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
+        },
+        {
+            "name": "Stiff-Legged Deadlift",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 8,
+            "repRangeEnd": 12,
+            "changeType": "AbsoluteLoad",
+            "changeAmount": 5,
+            "note": "Keep legs straight, hinge at hips, lower bar, push through hamstrings. [Video](https://www.youtube.com/watch?v=-C5U1mzoocY)"
+        },
+        {
+            "name": "Seated leg curls",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 12,
+            "repRangeEnd": 20,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Sit upright, curl legs down, squeeze hamstrings, slow return. [Video](https://www.youtube.com/watch?v=Lh3iMIcbkBQ)"
+        },
+        {
+            "name": "Lying leg curls",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 12,
+            "repRangeEnd": 20,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Lie face down, curl legs up, control return. [Video](https://www.youtube.com/watch?v=XFpT41748hM)"
+        },
+        {
+            "name": "Nordic hamstring curls",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": 1,
+            "setType": "Straight",
+            "repRangeStart": 6,
+            "repRangeEnd": 12,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Anchor feet, lower slowly, push up explosively. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
+        },
+        {
+            "name": "Glute-ham raises",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": 1,
+            "setType": "Straight",
+            "repRangeStart": 8,
+            "repRangeEnd": 15,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Bend at knees, lower torso, curl back up. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
+        },
+        {
+            "name": "Cable hamstring curls",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 12,
+            "repRangeEnd": 20,
+            "changeType": null,
+            "changeAmount": null,
+            "note": "Set cable low, curl leg up, slow return. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
+        },
+        {
+            "name": "Dumbbell Romanian deadlifts",
+            "targetMuscleGroup": "Hamstrings",
+            "customMuscleGroup": null,
+            "bodyweightFraction": null,
+            "setType": "Straight",
+            "repRangeStart": 8,
+            "repRangeEnd": 12,
+            "changeType": "AbsoluteLoad",
+            "changeAmount": 5,
+            "note": "Hold dumbbells, hinge at hips, lower to mid-shin, control up. [Video](https://www.youtube.com/watch?v=0a_fVS2s4Ho)"
+        }
+    ]
+},
 	{
 		"muscleGroup": "Glutes",
 		"exercises": [
