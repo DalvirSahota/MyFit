@@ -21,7 +21,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 10,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Feet flat, back arched, grip just outside shoulders. Lower bar to mid-chest, press up explosively. [Video](https://www.youtube.com/watch?v=NsEbXsTwas8)"
+				"note": "Feet flat, back arched, grip just outside shoulders. Lower bar to mid-chest, press up explosively. [Video](https://www.youtube.com/watch?v=ejI1Nlsul9k)"
 			},
 			{
 				"name": "Incline dumbbell press",
@@ -33,7 +33,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Bench at 30-45°, elbows tucked. Press dumbbells up, control descent. [Video](https://www.youtube.com/watch?v=7qFp5khuoFA)"
+				"note": "Bench at 30-45°, elbows tucked. Press dumbbells up, control descent. [Video](https://www.youtube.com/watch?v=5CECBjd7HLQ)"
 			},
 			{
 				"name": "Machine chest flyes",
@@ -45,7 +45,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Sit upright, slight elbow bend. Squeeze handles together, slow return. [Video](https://www.youtube.com/watch?v=fGm-ef-4PVk)"
+				"note": "Sit upright, slight elbow bend. Squeeze handles together, slow return. [Video](https://www.youtube.com/watch?v=FDay9wFe5uE)"
 			},
 			{
 				"name": "Push-ups",
@@ -57,7 +57,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hands under shoulders, core tight. Lower chest to floor, push back up. [Video](https://bing.com/search?q=Jeff+Nippard+RP+Fitness+chest+exercise+videos)"
+				"note": "Hands under shoulders, core tight. Lower chest to floor, push back up. [Video](https://www.youtube.com/watch?v=WDIpL0pjun0)"
 			},
 			{
 				"name": "Incline barbell bench press",
@@ -69,7 +69,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Bench at 30°, grip outside shoulders. Lower bar to upper chest, press up. [Video](https://www.youtube.com/watch?v=NsEbXsTwas8)"
+				"note": "Bench at 30°, grip outside shoulders. Lower bar to upper chest, press up. [Video](https://www.youtube.com/watch?v=lJ2o89kcnxY)"
 			},
 			{
 				"name": "Dips",
@@ -81,7 +81,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Lean forward, elbows at 45°. Lower body, push up powerfully. [Video](https://barbend.com/jeff-nippard-ranks-chest-exercises-for-hypertrophy/)"
+				"note": "Lean forward, elbows at 45°. Lower body, push up powerfully. [Video](https://www.youtube.com/watch?v=4LA1kF7yCGo)"
 			},
 			{
 				"name": "Flat dumbbell bench press",
@@ -93,7 +93,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Feet flat, back arched, elbows tucked. Press dumbbells up, lower slowly. [Video](https://jeffnippard.com/blogs/news/the-ultimate-push-workout-for-muscle-growth-chest-shoulders-triceps-2023)"
+				"note": "Feet flat, back arched, elbows tucked. Press dumbbells up, lower slowly. [Video](https://www.youtube.com/watch?v=YQ2s_Y7g5Qk)"
 			},
 			{
 				"name": "Dumbbell chest flyes",
@@ -105,7 +105,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Elbows soft, arms open wide. Squeeze chest at top. [Video](https://www.youtube.com/watch?v=NsEbXsTwas8&t=0s)"
+				"note": "Elbows soft, arms open wide. Squeeze chest at top. [Video](https://www.youtube.com/watch?v=JFm8KbhjibM)"
 			},
 			{
 				"name": "Incline dumbbell chest flyes",
@@ -117,7 +117,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Bench at 30°, arms open wide. Stretch at bottom, squeeze at top. [Video](https://www.youtube.com/watch?v=NsEbXsTwas8&t=59s)"
+				"note": "Bench at 30°, arms open wide. Stretch at bottom, squeeze at top. [Video](https://www.youtube.com/watch?v=8oR5hBwbIBc)"
 			}
 		]
 	},
@@ -134,7 +134,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Sit upright, grip handles firmly. Press up, control back down. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Sit upright, grip handles firmly. Press up, control back down. [Video](https://www.youtube.com/watch?v=MjVDrYPD7Rs)"
 			},
 			{
 				"name": "EZ-bar front raise",
@@ -146,7 +146,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hold bar shoulder-width, lift to eye level. Lower slowly. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Hold bar shoulder-width, lift to eye level. Lower slowly. [Video](https://www.youtube.com/watch?v=-eACihRsUK8)"
 			},
 			{
 				"name": "Dumbbell shoulder press",
@@ -158,7 +158,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Sit upright, elbows at 90°. Press dumbbells overhead, control descent. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
+				"note": "Sit upright, elbows at 90°. Press dumbbells overhead, control descent. [Video](https://www.youtube.com/watch?v=0JfYxMRsUCQ)"
 			},
 			{
 				"name": "Seated dumbbell shoulder press",
@@ -170,7 +170,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Back straight, dumbbells at shoulder height. Press overhead, control return. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
+				"note": "Back straight, dumbbells at shoulder height. Press overhead, control return. [Video](https://www.youtube.com/watch?v=TsduLWuhlFM)"
 			},
 			{
 				"name": "Dumbbell front raise",
@@ -182,7 +182,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hold dumbbells in front, raise to eye level. Lower under control. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
+				"note": "Hold dumbbells in front, raise to eye level. Lower under control. [Video](https://www.youtube.com/watch?v=E-E0EqERFBg)"
 			},
 			{
 				"name": "Cable front raise",
@@ -194,7 +194,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Set cable low, grip handle. Raise to forehead, control return. [Video](https://www.youtube.com/watch?v=SgyUoY0IZ7A)"
+				"note": "Set cable low, grip handle. Raise to forehead, control return. [Video](https://www.youtube.com/watch?v=vtH93qBItdk)"
 			}
 		]
 	},
@@ -211,7 +211,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Lean slightly, raise dumbbells to shoulder height. Control descent. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Lean slightly, raise dumbbells to shoulder height. Control descent. [Video](https://www.youtube.com/watch?v=6pYLxGYOb6s)"
 			},
 			{
 				"name": "Behind the back cable lateral raises",
@@ -223,7 +223,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Stand sideways, pull cable upward to shoulder height. Control return. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Stand sideways, pull cable upward to shoulder height. Control return. [Video](https://www.youtube.com/watch?v=oVezCahQKRQ)"
 			},
 			{
 				"name": "Super ROM lateral raises",
@@ -235,7 +235,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Start low, raise dumbbells high for max range. Control slow descent. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Start low, raise dumbbells high for max range. Control slow descent. [Video](https://www.youtube.com/shorts/9Ks1lzDJq7Q)"
 			},
 			{
 				"name": "Cross-body cable lateral raises",
@@ -247,7 +247,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grip low, pull cable diagonally outward to shoulder level. Slow return. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Grip low, pull cable diagonally outward to shoulder level. Slow return. [Video](https://www.youtube.com/watch?v=2OMbdPF7mz4)"
 			},
 			{
 				"name": "Dumbbell lateral raises",
@@ -259,7 +259,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Stand tall, raise dumbbells sideways until shoulders level. Lower slowly. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Stand tall, raise dumbbells sideways until shoulders level. Lower slowly. [Video](https://www.youtube.com/watch?v=XPPfnSEATJA)"
 			},
 			{
 				"name": "Cable Y-raises",
@@ -271,7 +271,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hold cable, raise arms in Y-shape above shoulders. Slow return. [Video](https://www.youtube.com/watch?v=21lYP86dHW4)"
+				"note": "Hold cable, raise arms in Y-shape above shoulders. Slow return. [Video](https://www.youtube.com/watch?v=RDYrHdpR6I0)"
 			}
 		]
 	},
