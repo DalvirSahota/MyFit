@@ -149,7 +149,7 @@ export const commonExercisePerMuscleGroup: {
 				"note": "Hold bar shoulder-width, lift to eye level. Lower slowly. [Video](https://www.youtube.com/watch?v=-eACihRsUK8)"
 			},
 			{
-				"name": "Dumbbell shoulder press",
+				"name": "Seated dumbbell shoulder press",
 				"targetMuscleGroup": "FrontDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
@@ -161,7 +161,7 @@ export const commonExercisePerMuscleGroup: {
 				"note": "Sit upright, elbows at 90°. Press dumbbells overhead, control descent. [Video](https://www.youtube.com/watch?v=0JfYxMRsUCQ)"
 			},
 			{
-				"name": "Seated dumbbell shoulder press",
+				"name": "Standing dumbbell shoulder press",
 				"targetMuscleGroup": "FrontDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
@@ -170,7 +170,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Back straight, dumbbells at shoulder height. Press overhead, control return. [Video](https://www.youtube.com/watch?v=TsduLWuhlFM)"
+				"note": "Back straight, dumbbells at shoulder height. Press overhead, control return. [Video](https://www.youtube.com/shorts/wO0l5jW2NtQ)"
 			},
 			{
 				"name": "Dumbbell front raise",
@@ -279,7 +279,7 @@ export const commonExercisePerMuscleGroup: {
 		"muscleGroup": "RearDelts",
 		"exercises": [
 			{
-				"name": "Face pull",
+				"name": "Cable face pull",
 				"targetMuscleGroup": "RearDelts",
 				"customMuscleGroup": null,
 				"bodyweightFraction": null,
@@ -288,7 +288,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Set rope at face height, pull toward forehead, elbows high. [Video](https://www.youtube.com/watch?v=qfc70k40318)"
+				"note": "Set rope at face height, pull toward forehead, elbows high. [Video](https://www.youtube.com/watch?v=0Po47vvj9g4)"
 			},
 			{
 				"name": "Machine rear delt fly",
@@ -300,7 +300,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Chest against pad, arms straight. Open wide, squeeze rear delts. [Video](https://www.youtube.com/watch?v=P5CXx_jgTDE)"
+				"note": "Chest against pad, arms straight. Open wide, squeeze rear delts. [Video](https://www.youtube.com/watch?v=VoscK_FHNbw)"
 			},
 			{
 				"name": "Bent-over reverse dumbbell fly",
@@ -312,7 +312,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hinge forward, raise dumbbells outward, control descent. [Video](https://www.youtube.com/watch?v=qfc70k40318)"
+				"note": "Hinge forward, raise dumbbells outward, control descent. [Video](https://www.youtube.com/watch?v=evXOlgLTPCw)"
 			},
 			{
 				"name": "Reverse pec deck",
@@ -324,7 +324,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grip handles, open arms back, squeeze rear delts. [Video](https://www.youtube.com/watch?v=qfc70k40318)"
+				"note": "Grip handles, open arms back, squeeze rear delts. [Video](https://www.youtube.com/watch?v=u8PnVzO6I7Q)"
 			},
 			{
 				"name": "Cable rear delt fly",
@@ -336,7 +336,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Set cable at shoulder height, pull outward, slow return. [Video](https://www.youtube.com/watch?v=P5CXx_jgTDE)"
+				"note": "Set cable at shoulder height, pull outward, slow return. [Video](https://www.youtube.com/watch?v=er15V96hG5U)"
 			},
 			{
 				"name": "Single-arm rear delt cable fly",
@@ -348,7 +348,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grab low cable, pull across body, control return. [Video](https://www.youtube.com/watch?v=P5CXx_jgTDE)"
+				"note": "Grab low cable, pull across body, control return. [Video](https://www.youtube.com/watch?v=qz1OLup4W_M)"
 			}
 		]
 	},
@@ -365,7 +365,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hang from bar, pull chest up to bar, lower under control. [Video](https://www.youtube.com/watch?v=12xHxUnBEiI)"
+				"note": "Hang from bar, pull chest up to bar, lower under control. [Video](https://www.youtube.com/shorts/eDP_OOhMTZ4)"
 			},
 			{
 				"name": "Lat pulldown (wide grip)",
@@ -377,7 +377,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grip bar wide, pull to chest, squeeze lats, control return. [Video](https://www.youtube.com/watch?v=12xHxUnBEiI)"
+				"note": "Grip bar wide, pull to chest, squeeze lats, control return. [Video](https://www.youtube.com/watch?v=YCKPD4BSD2E)"
 			},
 			{
 				"name": "Reverse grip lat pulldown",
@@ -389,7 +389,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grip bar underhand, pull down to upper chest, control return. [Video](https://www.youtube.com/watch?v=12xHxUnBEiI)"
+				"note": "Grip bar underhand, pull down to upper chest, control return. [Video](https://www.youtube.com/watch?v=SNiwpA13ZLU)"
 			},
 			{
 				"name": "Cable lat pullover",
@@ -413,7 +413,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Hand on bench, pull dumbbell to waist, control descent. [Video](https://www.youtube.com/watch?v=axoeDmW0oAY)"
+				"note": "Hand on bench, pull dumbbell to waist, control descent. [Video](https://www.youtube.com/watch?v=xl1YiqQY2vA)"
 			},
 			{
 				"name": "Bent-over barbell row",
@@ -425,7 +425,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Hinge forward, pull barbell to waist, slow return. [Video](https://www.youtube.com/watch?v=axoeDmW0oAY)"
+				"note": "Hinge forward, pull barbell to waist, slow return. [Video](https://www.youtube.com/watch?v=bm0_q9bR_HA)"
 			},
 			{
 				"name": "Seated cable row",
@@ -437,7 +437,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 12,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Sit tall, pull handle to waist, squeeze lats, control return. [Video](https://www.youtube.com/watch?v=12xHxUnBEiI)"
+				"note": "Sit tall, pull handle to waist, squeeze lats, control return. [Video](https://www.youtube.com/watch?v=lJoozxC0Rns)"
 			}
 		]
 	},
@@ -454,7 +454,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Grip bar shoulder-width, shrug up, hold briefly, lower slow. [Video](https://www.youtube.com/watch?v=C6sYjDFuq9I)"
+				"note": "Grip bar shoulder-width, shrug up, hold briefly, lower slow. [Video](https://www.youtube.com/watch?v=larn3Asl6oM)"
 			},
 			{
 				"name": "Trap bar shrugs",
@@ -466,7 +466,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Stand tall, grip trap bar, shrug up, hold briefly, slow return. [Video](https://www.youtube.com/watch?v=C6sYjDFuq9I)"
+				"note": "Stand tall, grip trap bar, shrug up, hold briefly, slow return. [Video](https://www.youtube.com/watch?v=dAg1Kaevqj0)"
 			},
 			{
 				"name": "Dumbbell shrugs",
@@ -478,7 +478,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Hold dumbbells at sides, shrug up, squeeze, control return. [Video](https://www.youtube.com/watch?v=C6sYjDFuq9I)"
+				"note": "Hold dumbbells at sides, shrug up, squeeze, control return. [Video](https://www.youtube.com/watch?v=_t3lrPI6Ns4)"
 			},
 			{
 				"name": "Smith machine shrugs",
@@ -490,7 +490,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 15,
 				"changeType": "AbsoluteLoad",
 				"changeAmount": 5,
-				"note": "Grip bar, shrug up, hold briefly, lower slow. [Video](https://www.youtube.com/watch?v=C6sYjDFuq9I)"
+				"note": "Grip bar, shrug up, hold briefly, lower slow. [Video](https://www.youtube.com/watch?v=cT5_GyOXIgE)"
 			},
 			{
 				"name": "Dual cable shrugs",
@@ -502,7 +502,7 @@ export const commonExercisePerMuscleGroup: {
 				"repRangeEnd": 20,
 				"changeType": null,
 				"changeAmount": null,
-				"note": "Grab cables, shrug straight up, squeeze traps, slow return. [Video](https://www.youtube.com/watch?v=C6sYjDFuq9I)"
+				"note": "Grab cables, shrug straight up, squeeze traps, slow return. [Video](https://www.youtube.com/watch?v=2zaT3WAgZi0)"
 			}
 		]
 	},
